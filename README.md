@@ -8,9 +8,9 @@ HI, ZIN's Github
 </div>
 <hr>
 <div align="center">
-<h3>
+<h1>
 MY SKILLS  
-</h3>
+</h1>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
@@ -27,7 +27,10 @@ MY SKILLS
 </div>
 <hr>
 
-<div aligh="center">
+<div align="center">
+<h1>
+BackJoon  
+</h1>
   
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=qwerty431)](https://solved.ac/qwerty431)  
